@@ -1,0 +1,8 @@
+apiVersion: order.k8ssphere.io/v1alpha1
+kind: Cate
+metadata:
+  name: cate-sample
+spec:
+  # Add fields here
+  foo: bar
+  username: chenjian

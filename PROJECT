@@ -1,0 +1,8 @@
+domain: k8ssphere.io
+multigroup: true
+repo: k8ssphere.io/k8ssphere
+resources:
+- group: order
+  kind: Cate
+  version: v1alpha1
+version: "2"
